@@ -1,0 +1,10 @@
+C:\Users\Rustam\Documents\Visual Studio 2017\Projects\navicon\WindowsServiceHomeWork\WindowsServiceHomeWork\bin\Debug\WindowsServiceHomeWork.exe.config
+C:\Users\Rustam\Documents\Visual Studio 2017\Projects\navicon\WindowsServiceHomeWork\WindowsServiceHomeWork\bin\Debug\WindowsServiceHomeWork.exe
+C:\Users\Rustam\Documents\Visual Studio 2017\Projects\navicon\WindowsServiceHomeWork\WindowsServiceHomeWork\bin\Debug\WindowsServiceHomeWork.pdb
+C:\Users\Rustam\Documents\Visual Studio 2017\Projects\navicon\WindowsServiceHomeWork\WindowsServiceHomeWork\bin\Debug\log4net.dll
+C:\Users\Rustam\Documents\Visual Studio 2017\Projects\navicon\WindowsServiceHomeWork\WindowsServiceHomeWork\bin\Debug\log4net.xml
+C:\Users\Rustam\Documents\Visual Studio 2017\Projects\navicon\WindowsServiceHomeWork\WindowsServiceHomeWork\obj\Debug\WindowsServiceHomeWork.ProjectInstaller.resources
+C:\Users\Rustam\Documents\Visual Studio 2017\Projects\navicon\WindowsServiceHomeWork\WindowsServiceHomeWork\obj\Debug\WindowsServiceHomeWork.csproj.GenerateResource.Cache
+C:\Users\Rustam\Documents\Visual Studio 2017\Projects\navicon\WindowsServiceHomeWork\WindowsServiceHomeWork\obj\Debug\WindowsServiceHomeWork.exe
+C:\Users\Rustam\Documents\Visual Studio 2017\Projects\navicon\WindowsServiceHomeWork\WindowsServiceHomeWork\obj\Debug\WindowsServiceHomeWork.pdb
+C:\Users\Rustam\Documents\Visual Studio 2017\Projects\navicon\WindowsServiceHomeWork\WindowsServiceHomeWork\obj\Debug\WindowsServiceHomeWork.csprojResolveAssemblyReference.cache
